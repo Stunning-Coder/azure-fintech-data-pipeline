@@ -35,7 +35,7 @@ Built on **Microsoft Azure**, this project demonstrates a scalable **Real-Time E
 ├── data_generator.py        # The Transaction Simulator (Python -> Event Hub)
 ├── .env                     # Secrets (Not committed)
 └── README.md                # Documentation
-
+```
 ## 🚀 Getting Started
 1. **Clone the repo:**
     ```bash
@@ -59,8 +59,8 @@ Built on **Microsoft Azure**, this project demonstrates a scalable **Real-Time E
 
 
 **How to push this:**
-    ```bash
-    # In your terminal
-    git add README.md
-    git commit -m "docs: Add project documentation"
-    git push
+```bash
+# In your terminal
+git add README.md
+git commit -m "docs: Add project documentation"
+git push
