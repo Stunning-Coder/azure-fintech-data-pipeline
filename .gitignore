@@ -1,0 +1,9 @@
+# Ignore Virtual Env
+venv/
+__pycache__/
+
+# Ignore Secrets
+.env
+
+# Ignore VS Code settings
+.vscode/
