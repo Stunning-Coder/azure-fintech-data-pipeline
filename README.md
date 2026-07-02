@@ -56,11 +56,3 @@ Built on **Microsoft Azure**, this project demonstrates a scalable **Real-Time E
 5. **📈 Future Improvements**
 - Implement Spark Structured Streaming (Databricks) for Silver/Gold transformation.
 - Add Great Expectations for data quality validation on the raw stream.
-
-
-**How to push this:**
-```bash
-# In your terminal
-git add README.md
-git commit -m "docs: Add project documentation"
-git push
